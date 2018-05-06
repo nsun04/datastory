@@ -1,9 +1,9 @@
-svg {
+svg.bubble-chart  {
         border: 10px solid;
         text-anchor: middle;
         font-family: sans-serif;
     }
-    
-.node text {
-        font-size: 8px;
-    }
+
+.bubble-chart .node text {
+    font-size: 8px;
+}
