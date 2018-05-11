@@ -2,20 +2,20 @@ body {
   margin: 0 auto;
   background-color: #F1F3F3    
 }
-.bar {
+#dummy-bar-chart-container .bar {
 	fill: #6F257F;
 }
-.axis path,
-.axis line {
+#dummy-bar-chart-container .axis path,
+#dummy-bar-chart-container .axis line {
   fill: none;
   stroke: #D4D8DA;
   stroke-width: 1px;
   shape-rendering: crispEdges;
 }
-.x path {
+#dummy-bar-chart-container .x path {
 	display: none;
 }
-.toolTip {
+#dummy-bar-chart-container .toolTip {
 	position: absolute;
   display: none;
   min-width: 80px;
