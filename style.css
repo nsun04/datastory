@@ -35,3 +35,18 @@ img {
   text-align:right;
 }
 
+#dummy-bar-chart-container h2 {
+  font-weight: bold; 
+  font-size:20px;
+}
+
+#dummy-bubble-chart-container h2 {
+  font-weight: bold; 
+  font-size:20px;
+}
+
+#dummy-line-chart-container h2 {
+  font-weight: bold; 
+  font-size:20px;
+}
+
